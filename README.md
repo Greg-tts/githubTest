@@ -1,4 +1,6 @@
 # githubTest
+\Megan
+Hello class
 # this was vanessa
 Gregory
 Hello
